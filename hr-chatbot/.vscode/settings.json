@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "4-eval-driven-development"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}

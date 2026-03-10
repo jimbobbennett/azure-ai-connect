@@ -1,0 +1,6 @@
+arize-phoenix
+arize-phoenix-otel
+openai
+openinference-instrumentation-openai
+python-dotenv
+pytest
